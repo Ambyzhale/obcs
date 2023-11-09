@@ -11,4 +11,6 @@
    This logs the user and gives them access to application, checking validation of their applications and downloading their soft copies as well as printing.
 
 ## Demo
-  Below is a recording link of how to navigate through the app and how it functions;
+  Below is a recording link of how to navigate through the app and how it function;
+  [![obcs](https://youtu.be/ZuX4XUAqlSc)]
+  [![github-link](https://github.com/Ambyzhale/obcs.git)]
