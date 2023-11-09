@@ -49,5 +49,5 @@ Users can also update his profile, change their passwords and recover their pass
 
 ## Demo
   Below is a recording link of how to navigate through the app and how it function;
-  [![obcs](https://youtu.be/ZuX4XUAqlSc)]
+  [![obcs](https://youtu.be/ZuX4XUAqlSc?si=bW5Hv7AG-I7i5qz6)]
   [![github-link](https://github.com/Ambyzhale/obcs.git)]
